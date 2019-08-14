@@ -60,7 +60,7 @@ def evaluate(results, accuracy, f1):
     """
   
     # Create figure
-    fig, ax = pl.subplots(2, 3, figsize = (18,15))
+    fig, ax = pl.subplots(2, 3, figsize = (14,10))
 
     # Constants
     bar_width = 0.3
